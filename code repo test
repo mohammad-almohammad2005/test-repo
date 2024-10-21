@@ -1,0 +1,5 @@
+list= ['pomme','cerise','orange']
+def fruits():
+    return list
+list = fruits()
+print(list[1])
